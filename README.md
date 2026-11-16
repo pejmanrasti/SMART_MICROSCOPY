@@ -1,4 +1,28 @@
-# Smart Microscopy with AI — Practical Sessions (TP1 & TP2)
+# Smart Microscopy with AI — Practical Sessions
+
+
+## Copy the materials into your Google Drive
+
+Each TP has a shared folder with its data and pre-trained models.
+
+Shared folder |
+---|
+https://drive.google.com/drive/folders/1yUZ9ifiKFdmjxZYX1eLmE30XEYx1NNO4?usp=sharing|
+
+For the link:
+1. Open the link while signed in to your Google account.
+2. Click the folder name at the top of the page, then **Organize → Add shortcut**. (In some versions this is the "Add shortcut to Drive" icon.)
+3. Choose **My Drive** and confirm.
+
+The folder now appears in your **My Drive**. Note its exact name, because you will need it in the notebook.
+
+> **Alternative:** download the folder as a ZIP, unzip it, and upload it to **My Drive**.
+
+Please do this **before** the session. The TP1 files are fairly large.
+
+----
+
+
 
 Two hands-on sessions on how machine learning can help a microscope **see more** (predict a fluorescence image from a label-free one) and **act smarter** (decide where and how to illuminate the sample).
 
@@ -43,26 +67,6 @@ You will teach a virtual microscope with **Q-learning**, a simple reinforcement-
 TP2 uses a simulated microscope, so no real images are needed.
 
 ---
-
-## Before the session: copy the materials into your Google Drive
-
-Each TP has a shared folder with its data and pre-trained models.
-
-| TP | Shared folder |
-|---|---|
-| **TP1** | https://drive.google.com/drive/folders/14i90uUEn_A1hrWbnBc-dt7WPRkN3GaLs?usp=sharing |
-| **TP2** | https://drive.google.com/drive/folders/1zjT6Db_GPjsC2Xi_tpFPjgp4oALc_omh?usp=sharing |
-
-For **each** link:
-1. Open the link while signed in to your Google account.
-2. Click the folder name at the top of the page, then **Organize → Add shortcut**. (In some versions this is the "Add shortcut to Drive" icon.)
-3. Choose **My Drive** and confirm.
-
-The folder now appears in your **My Drive**. Note its exact name, because you will need it in the notebook.
-
-> **Alternative:** download the folder as a ZIP, unzip it, and upload it to **My Drive**.
-
-Please do this **before** the session. The TP1 files are fairly large.
 
 ## During the session: open the notebook in Colab
 
